@@ -1,0 +1,24 @@
+[submodule "ack.vim"]
+	path = ack.vim
+	url = https://github.com/mileszs/ack.vim.git
+[submodule "camelcasemotion"]
+	path = camelcasemotion
+	url = https://github.com/vim-scripts/camelcasemotion.git
+[submodule "ctrlp.vim"]
+	path = ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim.git
+[submodule "html-template-syntax"]
+	path = html-template-syntax
+	url = https://github.com/pbrisbin/html-template-syntax.git
+[submodule "indentpython.vim"]
+	path = indentpython.vim
+	url = https://github.com/vim-scripts/indentpython.vim.git
+[submodule "python.vim--Vasiliev"]
+	path = python.vim--Vasiliev
+	url = https://github.com/vim-scripts/python.vim--Vasiliev
+[submodule "syntastic"]
+	path = syntastic
+	url = https://github.com/scrooloose/syntastic.git
+[submodule "tagbar"]
+	path = tagbar
+	url = git://github.com/majutsushi/tagbar
